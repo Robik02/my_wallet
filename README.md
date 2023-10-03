@@ -1,4 +1,4 @@
-# my_wallet
+# MyWallet
 
 An innovative mobile app.
 
